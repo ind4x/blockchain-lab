@@ -95,5 +95,10 @@ Execute all cells sequentially to run hashing benchmarks, PoW difficulty simulat
 - **Language:** Python 3
 - **Environment:** Jupyter Notebook
 - **Standard Libraries:** `hashlib`, `time`, `json`
-- **Institution:** Mundiapolis University, Engineering Cycle
+
+---
+
+## Author
+
 - **Author:** Youssef Fellah ([ind4x_](https://github.com/ind4x))
+- **Institution:** Mundiapolis University, Engineering Cycle

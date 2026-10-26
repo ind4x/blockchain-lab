@@ -114,5 +114,10 @@ python3 main.py
 - **Network Framework:** Flask (RESTful HTTP microframework)
 - **Client Networking:** Requests
 - **Environment:** Jupyter Notebook, VS Code
+
+---
+
+## Author
+
 - **Author:** Youssef Fellah ([ind4x_](https://github.com/ind4x))
 - **Institution:** Mundiapolis University, Engineering Cycle
