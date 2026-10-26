@@ -17,5 +17,7 @@ structures, consensus protocols, and immutability validation.
 - Environment: Jupyter Notebook, VS Code
 - Standard libraries: `hashlib`, `time`, `json`
 
-Authored by Youssef Fellah.
-Developed for the Engineering Cycle at Mundiapolis University.
+## Author
+
+- **Author:** Youssef Fellah ([ind4x_](https://github.com/ind4x))
+- **Institution:** Mundiapolis University, Engineering Cycle
